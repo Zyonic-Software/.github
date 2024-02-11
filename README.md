@@ -1,2 +1,0 @@
-# .github
-Stuff about us
